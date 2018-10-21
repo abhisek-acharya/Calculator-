@@ -1,0 +1,12 @@
+<publishData>
+  <publishTarget publishUrl="ftp://216.108.234.70/inetpub/wwwroot/vendors.vedic-astrology.net/httpdocs/GreenStone_ChartCreator/">
+    <file relUrl="DrawChart.aspx" publishTime="12/15/2015 12:18:30" />
+    <file relUrl="Atlas.aspx" publishTime="12/17/2015 21:43:25" />
+    <file relUrl="Welcome.aspx" publishTime="12/24/2015 10:03:54" />
+    <file relUrl="bin/GreenStone_ChartCalculator.pdb" publishTime="04/22/2016 13:55:57" />
+    <file relUrl="Chart.aspx" publishTime="12/15/2015 13:22:21" />
+    <file relUrl="Web.config" publishTime="03/16/2016 12:09:44" />
+    <file relUrl="bin/GreenStone_ChartCalculator.dll" publishTime="04/22/2016 13:55:57" />
+    <file relUrl="bin/swedll32.dll" publishTime="07/10/2003 14:41:32" />
+  </publishTarget>
+</publishData>

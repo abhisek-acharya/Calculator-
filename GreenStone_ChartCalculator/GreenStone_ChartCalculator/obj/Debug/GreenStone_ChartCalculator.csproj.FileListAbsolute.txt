@@ -1,0 +1,6 @@
+F:\OneDrive\My Projects\ASP.NET\GreenStone_ChartCalculator\GreenStone_ChartCalculator\bin\GreenStone_ChartCalculator.dll
+F:\OneDrive\My Projects\ASP.NET\GreenStone_ChartCalculator\GreenStone_ChartCalculator\bin\GreenStone_ChartCalculator.pdb
+F:\OneDrive\My Projects\ASP.NET\GreenStone_ChartCalculator\GreenStone_ChartCalculator\obj\Debug\GreenStone_ChartCalculator.dll
+F:\OneDrive\My Projects\ASP.NET\GreenStone_ChartCalculator\GreenStone_ChartCalculator\obj\Debug\GreenStone_ChartCalculator.pdb
+F:\OneDrive\My Projects\ASP.NET\GreenStone_ChartCalculator\GreenStone_ChartCalculator\bin\GreenStone_ChartCalculator.dll.config
+F:\OneDrive\My Projects\ASP.NET\GreenStone_ChartCalculator\GreenStone_ChartCalculator\obj\Debug\GreenStone_ChartCalculator.csprojResolveAssemblyReference.cache

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAWr8q3/kdvEOaugwn5/eudQAAAAACAAAAAAAQZgAAAAEAACAAAAB8Gcc568otSP7JNX99nKU/5HYdk/wsblVBJKpus0TQywAAAAAOgAAAAAIAACAAAAAJMi8A9Aeg9QaP2kljGyKX7dDwJYhI71ttuWiJnFQR1zAAAAAFucXnvX6JBHlvRBjRUebMygd2RklWe0S8zLREsSlHqB3g7fR+q01Xo6DCPxq3pslAAAAADtt1QHw/fgIL5L/Ctdb2SCwRVxtud4t8Ww12LqGfXTQoHXSoG7qWnqgMaAHgoUppnXc41CGHQCxMVmhqC6B+xA==</EncryptedPassword>
+    <_PublishTargetUrl>ftp://216.108.234.70/inetpub/wwwroot/vendors.vedic-astrology.net/httpdocs/GreenStone_ChartCreator</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Atlas.aspx">
+      <publishTime>12/17/2015 21:43:25</publishTime>
+    </File>
+    <File Include="bin/adodb.dll">
+      <publishTime>09/19/2007 18:21:00</publishTime>
+    </File>
+    <File Include="bin/de/MigraDoc.DocumentObjectModel.resources.dll">
+      <publishTime>10/31/2016 14:29:26</publishTime>
+    </File>
+    <File Include="bin/de/MigraDoc.Rendering.resources.dll">
+      <publishTime>10/31/2016 14:29:26</publishTime>
+    </File>
+    <File Include="bin/de/PdfSharp.resources.dll">
+      <publishTime>10/31/2016 15:14:33</publishTime>
+    </File>
+    <File Include="bin/GreenStone_ChartCalculator.dll">
+      <publishTime>12/12/2016 10:07:07</publishTime>
+    </File>
+    <File Include="bin/MigraDoc.DocumentObjectModel.dll">
+      <publishTime>10/31/2016 14:29:26</publishTime>
+    </File>
+    <File Include="bin/MigraDoc.Rendering.dll">
+      <publishTime>10/31/2016 14:29:26</publishTime>
+    </File>
+    <File Include="bin/PdfSharp.Charting.dll">
+      <publishTime>10/31/2016 14:34:16</publishTime>
+    </File>
+    <File Include="bin/PdfSharp.dll">
+      <publishTime>10/31/2016 15:14:33</publishTime>
+    </File>
+    <File Include="bin/VOTH_Report_Capacity_Female.dll">
+      <publishTime>10/31/2016 16:06:12</publishTime>
+    </File>
+    <File Include="Chart.aspx">
+      <publishTime>12/15/2015 13:22:21</publishTime>
+    </File>
+    <File Include="DrawChart.aspx">
+      <publishTime>12/15/2015 12:18:30</publishTime>
+    </File>
+    <File Include="FemaleCapacity.aspx">
+      <publishTime>03/07/2012 11:04:23</publishTime>
+    </File>
+    <File Include="Form.aspx">
+      <publishTime>10/31/2016 14:29:20</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>11/02/2016 09:03:01</publishTime>
+    </File>
+    <File Include="Welcome.aspx">
+      <publishTime>12/05/2016 20:48:28</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
